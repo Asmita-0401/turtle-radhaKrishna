@@ -8,10 +8,12 @@ This project uses Python’s built-in turtle module to draw a stunning represent
 💡 Great for practicing geometry and turtle graphics
 
 🧘‍♂️ Peaceful coding experience with artistic output
+
 🛠️ Requirements
 Make sure you have Python 3.x installed.
 
 This program only uses Python’s built-in modules — no need to install anything extra!
+
 ❤️ Inspired By
 This project is inspired by Indian devotional themes, and showcases the harmony of art + code.
 📜 License
